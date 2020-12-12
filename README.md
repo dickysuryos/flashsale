@@ -23,6 +23,7 @@ item_url = 'https://shopee.co.id/Apple-iPhone-11-Pro-512GB-Midnight-Green-i.2555
 python main.py
 ```
 5. Input OTP
+
 make sure your shopee pay has a balance.
 
 
